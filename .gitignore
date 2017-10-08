@@ -52,3 +52,11 @@ coverage.xml
 # Sphinx documentation
 docs/_build/
 
+# Secrets
+app_key
+app_secret
+oauth_token
+oauth_token_secret
+
+# Data
+*.csv
